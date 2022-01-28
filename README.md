@@ -1,9 +1,6 @@
-<!-- Head with Stylesheet importing -->
-<head>
-  <link rel="stylesheet" href="./src/css/styles.css">
-</head>
 <body>
-
+<!-- Stylesheet importing -->
+<link rel="stylesheet" href="./src/css/styles.css">
 
 <!-- Banner -->
 <div id="banner">
@@ -129,7 +126,7 @@
 
 <!-- <div id="footer">
 <h4>DexDevLab</h4>
-<h4>v2.0.220127</h4>
+<h4>v2.0.1.220127</h4>
 </div> -->
 
 </body>
