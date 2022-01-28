@@ -1,6 +1,10 @@
 <body>
-<!-- Stylesheet importing -->
-<link rel="stylesheet" href="./src/css/styles.css">
+
+
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
 
 <!-- Banner -->
 <div id="banner">
@@ -126,7 +130,95 @@
 
 <!-- <div id="footer">
 <h4>DexDevLab</h4>
-<h4>v2.0.1.220127</h4>
+<h4>v2.0.2.220127</h4>
 </div> -->
 
 </body>
+
+<!-- <style>
+
+body {
+  background-color: white;
+  background-image: url("./src/img/bg2.jpg");
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  color: #527dc7;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  margin-top: 5em;
+}
+
+h3 {
+  color: #527dc7;
+  font-weight: bold;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+  font-size: 0.8em;
+  font-weight: bold;
+  color: white;
+}
+
+#banner {
+  text-align: center;
+  margin: auto;
+  margin-top: 2.5em;
+  width: 50%;
+}
+
+#icons-div {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  margin: auto;
+  margin-top: 3em;
+  margin-bottom: 6em;
+}
+
+#icons {
+  width: 45px;
+  height: 45px;
+  margin: 0.5em;
+}
+
+#div-github {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  margin: auto;
+  margin-bottom: 3em;
+  width: 100%;
+}
+
+#div-working-on {
+  background-color: #15151f;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
+#div-social {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  margin: auto;
+  margin-top: 4em;
+  width: 25%;
+}
+
+#footer {
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 3em;
+  margin-top: 13em;
+}
+
+</style> -->
