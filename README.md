@@ -1,11 +1,5 @@
+<link href="styles.css" rel="stylesheet"></link>
 <body>
-
-
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
-
-
 <!-- Banner -->
 <div id="banner">
 
@@ -130,7 +124,7 @@
 
 <!-- <div id="footer">
 <h4>DexDevLab</h4>
-<h4>v2.0.2.220127</h4>
+<h4>v2.0.3.220127</h4>
 </div> -->
 
 </body>
