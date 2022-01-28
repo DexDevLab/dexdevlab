@@ -1,4 +1,3 @@
-<link href="styles.css" rel="stylesheet"></link>
 <body>
 <!-- Banner -->
 <div id="banner">
@@ -124,12 +123,12 @@
 
 <!-- <div id="footer">
 <h4>DexDevLab</h4>
-<h4>v2.0.3.220127</h4>
+<h4>v2.0.4.220127</h4>
 </div> -->
 
 </body>
 
-<!-- <style>
+<style>
 
 body {
   background-color: white;
@@ -215,4 +214,4 @@ h4 {
   margin-top: 13em;
 }
 
-</style> -->
+</style>
