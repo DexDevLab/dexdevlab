@@ -1,12 +1,12 @@
 <!-- Creates a SVG model -->
-<svg fill="none" viewBox="0 0 1920 1080" width="1920" height="1080"
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400"
   xmlns="http://www.w3.org/2000/svg">
   <!-- Call a ForeignObject -->
   <foreignObject width="100%" height="100%">
     <!-- Creates a XHTML model -->
     <div xmlns="http://www.w3.org/1999/xhtml">
-    <!-- CSS block -->
-    <style>
+      <!-- CSS block -->
+      <style>
       h2 {
   color: #527dc7;
   font-weight: bold;
@@ -28,15 +28,7 @@ h4 {
   color: white;
 }
 
-#banner {
-  text-align: center;
-  margin: auto;
-  margin-top: 2.5em;
-  width: 50%;
-  content: url("../img/banner.png");
-}
-
-#icons-div {
+.icons-div {
   display: flex;
   flex-wrap: nowrap;
   justify-content: center;
@@ -45,13 +37,13 @@ h4 {
   margin-bottom: 6em;
 }
 
-#icons {
+.icons {
   width: 45px;
   height: 45px;
   margin: 0.5em;
 }
 
-#div-github {
+.div-github {
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
@@ -60,25 +52,25 @@ h4 {
   width: 100%;
 }
 
-#widget-github-status {
+.widget-github-status {
   content: url("https://shorturl.at/gwDZ4");
 }
 
-#widget-github-langs {
+.widget-github-langs {
   content: url("https://shorturl.at/dpNS4");
 }
 
-#div-working-on {
+.div-working-on {
   background-color: #15151f;
   border-radius: 10px;
   border: 2px solid white;
 }
 
-#widget-github-working {
+.widget-github-working {
   content: url("https://shorturl.at/pDFJN");
 }
 
-#div-social {
+.div-social {
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
@@ -87,15 +79,15 @@ h4 {
   width: 25%;
 }
 
-#badge-instagram {
+.badge-instagram {
   content: url("https://shorturl.at/koxK1");
 }
 
-#badge-linkedin {
+.badge-linkedin {
   content: url("https://shorturl.at/imrxR");
 }
 
-#footer {
+.footer {
   display: flex;
   flex-wrap: nowrap;
   flex-direction: column;
@@ -103,89 +95,87 @@ h4 {
   height: 3em;
   margin-top: 13em;
 }
-    </style>
-    <!-- Normal HTML follows -->
-        <!-- Banner -->
-        <div id="banner"/>
+      </style>
+      <div>
+        <!-- Normal HTML follows -->
 
         <!-- Dev Icons Session -->
-        <div id="icons-div">
+        <div class="icons-div">
 
           <!-- Reference Hyperlink -->
           <a href="https://code.visualstudio.com/">
             <!-- Dev Icon and Alt -->
-            <img id="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
+            <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
           </a>
 
           <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-            <img id="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5"/>
+            <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5"/>
           </a>
 
           <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-            <img id="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3"/>
+            <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3"/>
           </a>
 
           <a href="https://sass-lang.com">
-            <img id="icons" src="https://simpleicons.org/icons/sass.svg" alt="sass"/>
+            <img class="icons" src="https://simpleicons.org/icons/sass.svg" alt="sass"/>
           </a>
 
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-            <img id="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
+            <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
           </a>
 
           <a href="https://www.java.com">
-            <img id="icons" src="https://www.svgrepo.com/show/184143/java.svg" alt="java"/>
+            <img class="icons" src="https://www.svgrepo.com/show/184143/java.svg" alt="java"/>
           </a>
 
           <a href="https://angular.io">
-            <img id="icons" src="https://simpleicons.org/icons/angular.svg" alt="angular"/>
+            <img class="icons" src="https://simpleicons.org/icons/angular.svg" alt="angular"/>
           </a>
 
           <a href="https://nextjs.org/">
-            <img id="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs"/>
+            <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs"/>
           </a>
 
           <a href="https://nodejs.org">
-            <img id="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
+            <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
           </a>
 
           <a href="https://www.prisma.io">
-            <img id="icons" src="https://simpleicons.org/icons/prisma.svg" alt="prisma"/>
+            <img class="icons" src="https://simpleicons.org/icons/prisma.svg" alt="prisma"/>
           </a>
 
           <a href="https://www.mysql.com">
-            <img id="icons" src="https://www.svgrepo.com/show/342053/mysql.svg" alt="mysql"/>
+            <img class="icons" src="https://www.svgrepo.com/show/342053/mysql.svg" alt="mysql"/>
           </a>
 
           <a href="https://git-scm.com/">
-            <img id="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/>
+            <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/>
           </a>
 
           <a href="https://github.com">
-            <img id="icons" src="https://simpleicons.org/icons/github.svg" alt="github"/>
+            <img class="icons" src="https://simpleicons.org/icons/github.svg" alt="github"/>
           </a>
 
           <a href="https://www.docker.com">
-            <img id="icons" src="https://simpleicons.org/icons/docker.svg" alt="docker"/>
+            <img class="icons" src="https://simpleicons.org/icons/docker.svg" alt="docker"/>
           </a>
 
         </div>
 
         <!-- GitHub Widgets -->
-        <div id="div-github">
+        <div class="div-github">
           <a href="https://github.com/dexdevlab">
-            <img id="widget-github-status" height="180em"/>
+            <img class="widget-github-status" height="180em"/>
           </a>
           <a href="https://github.com/dexdevlab">
-            <img id="widget-github-langs" height="180em"/>
+            <img class="widget-github-langs" height="180em"/>
           </a>
-          <div id="div-working-on">
+          <div class="div-working-on">
             <h3>Trabalhando em:</h3>
             <a href="https://github.com/dexdevlab/dcl-auth-api">
-              <img id="widget-github-working" height="135em" />
+              <img class="widget-github-working" height="135em" />
             </a>
           </div>
-
         </div>
 
         <!-- Vercel Trophies -->
@@ -196,18 +186,19 @@ h4 {
           </a>
         </p> -->
 
-      <h2>About me</h2>
+        <h2>About me</h2>
 
-      <!-- Social Media Links -->
+        <!-- Social Media Links -->
 
-      <div id="div-social">
-        <a href="https://instagram.com/ei_dex/">
-          <img id="badge-instagram"/>
-        </a>
-        <a href="https://www.linkedin.com/in/daniel-augusto-almeida/">
-          <img id="badge-linkedin"/>
-        </a>
+        <div class="div-social">
+          <a href="https://instagram.com/ei_dex/">
+            <img class="badge-instagram"/>
+          </a>
+          <a href="https://www.linkedin.com/in/daniel-augusto-almeida/">
+            <img class="badge-linkedin"/>
+          </a>
+        </div>
       </div>
-  </div>
-</foreignObject>
+    </div>
+  </foreignObject>
 </svg>
