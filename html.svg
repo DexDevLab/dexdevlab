@@ -1,11 +1,8 @@
 <!-- Creates a SVG model -->
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400"
   xmlns="http://www.w3.org/2000/svg">
-  <!-- Call a ForeignObject -->
   <foreignObject width="100%" height="100%">
-    <!-- Creates a XHTML model -->
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <!-- CSS block -->
       <style>
       h2 {
   color: #527dc7;
@@ -14,20 +11,17 @@
   color: white;
   margin-top: 5em;
 }
-
 h3 {
   color: #527dc7;
   font-weight: bold;
   text-align: center;
 }
-
 h4 {
   text-align: center;
   font-size: 0.8em;
   font-weight: bold;
   color: white;
 }
-
 .icons-div {
   display: flex;
   flex-wrap: nowrap;
@@ -36,13 +30,11 @@ h4 {
   margin-top: 3em;
   margin-bottom: 6em;
 }
-
 .icons {
   width: 45px;
   height: 45px;
   margin: 0.5em;
 }
-
 .div-github {
   display: flex;
   flex-wrap: nowrap;
@@ -51,25 +43,20 @@ h4 {
   margin-bottom: 3em;
   width: 100%;
 }
-
 .widget-github-status {
   content: url("https://shorturl.at/gwDZ4");
 }
-
 .widget-github-langs {
   content: url("https://shorturl.at/dpNS4");
 }
-
 .div-working-on {
   background-color: #15151f;
   border-radius: 10px;
   border: 2px solid white;
 }
-
 .widget-github-working {
   content: url("https://shorturl.at/pDFJN");
 }
-
 .div-social {
   display: flex;
   flex-wrap: nowrap;
@@ -78,15 +65,12 @@ h4 {
   margin-top: 4em;
   width: 25%;
 }
-
 .badge-instagram {
   content: url("https://shorturl.at/koxK1");
 }
-
 .badge-linkedin {
   content: url("https://shorturl.at/imrxR");
 }
-
 .footer {
   display: flex;
   flex-wrap: nowrap;
@@ -95,74 +79,52 @@ h4 {
   height: 3em;
   margin-top: 13em;
 }
-      </style>
+</style>
       <div>
-        <!-- Normal HTML follows -->
-
-        <!-- Dev Icons Session -->
         <div class="icons-div">
-
-          <!-- Reference Hyperlink -->
           <a href="https://code.visualstudio.com/">
-            <!-- Dev Icon and Alt -->
             <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" />
           </a>
-
           <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
             <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5"/>
           </a>
-
           <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
             <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3"/>
           </a>
-
           <a href="https://sass-lang.com">
             <img class="icons" src="https://simpleicons.org/icons/sass.svg" alt="sass"/>
           </a>
-
           <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
             <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"/>
           </a>
-
           <a href="https://www.java.com">
             <img class="icons" src="https://www.svgrepo.com/show/184143/java.svg" alt="java"/>
           </a>
-
           <a href="https://angular.io">
             <img class="icons" src="https://simpleicons.org/icons/angular.svg" alt="angular"/>
           </a>
-
           <a href="https://nextjs.org/">
             <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs"/>
           </a>
-
           <a href="https://nodejs.org">
             <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs"/>
           </a>
-
           <a href="https://www.prisma.io">
             <img class="icons" src="https://simpleicons.org/icons/prisma.svg" alt="prisma"/>
           </a>
-
           <a href="https://www.mysql.com">
             <img class="icons" src="https://www.svgrepo.com/show/342053/mysql.svg" alt="mysql"/>
           </a>
-
           <a href="https://git-scm.com/">
             <img class="icons" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git"/>
           </a>
-
           <a href="https://github.com">
             <img class="icons" src="https://simpleicons.org/icons/github.svg" alt="github"/>
           </a>
-
           <a href="https://www.docker.com">
             <img class="icons" src="https://simpleicons.org/icons/docker.svg" alt="docker"/>
           </a>
-
         </div>
-
-        <!-- GitHub Widgets -->
         <div class="div-github">
           <a href="https://github.com/dexdevlab">
             <img class="widget-github-status" height="180em"/>
@@ -177,19 +139,7 @@ h4 {
             </a>
           </div>
         </div>
-
-        <!-- Vercel Trophies -->
-
-        <!-- <p align="center">
-          <a href="https://github.com/daniel-almeida1989">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=daniel-almeida1989&theme=onedark&no-frame=true&row=1&&margin-w=20&no-bg=true" />
-          </a>
-        </p> -->
-
         <h2>About me</h2>
-
-        <!-- Social Media Links -->
-
         <div class="div-social">
           <a href="https://instagram.com/ei_dex/">
             <img class="badge-instagram"/>
