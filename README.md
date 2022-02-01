@@ -129,18 +129,18 @@
 <a href="https://github.com/dexdevlab">
     <img 
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
+		src="https://github-readme-stats.vercel.app/api?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&theme=aura"/>
 </a>
 <a href="https://github.com/dexdevlab">
     <img 
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"/>
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=aura"/>
 </a>
 <h4>Trabalhando atualmente em:</h4>
 <a href="https://github.com/dexdevlab/dcl-auth-api">
     <img 
 		height="100em"
-		src="https://github-readme-stats.vercel.app/api/pin/?username=dexdevlab&repo=dcl-auth-api&theme=tokyonight"/>
+		src="https://github-readme-stats.vercel.app/api/pin/?username=dexdevlab&repo=dcl-auth-api&theme=aura"/>
 </a>
 <br><br><br><br>
 <h4>About me</h4>
@@ -159,4 +159,4 @@
     </a>
 </div>
 <!-- Version:
-v4.2.0.220129 -->
+v4.2.1.220201 -->
