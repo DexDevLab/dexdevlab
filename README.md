@@ -142,6 +142,11 @@
 		height="100em"
 		src="https://github-readme-stats.vercel.app/api/pin/?username=dexdevlab&repo=dcl-auth-api&theme=aura"/>
 </a>
+<a href="https://github.com/frtechdev/flem-ppe-frontend">
+    <img 
+		height="100em"
+		src="https://github-readme-stats.vercel.app/api/pin/?username=frtechdev&repo=flem-ppe-frontend&theme=aura"/>
+</a>
 <br><br><br><br>
 <h4>About me</h4>
 <div class="div-social">
@@ -159,4 +164,4 @@
     </a>
 </div>
 <!-- Version:
-v4.2.1.220201 -->
+v4.2.2.220217 -->
