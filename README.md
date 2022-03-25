@@ -3,8 +3,38 @@
 		<img src="src/banner.svg" width="1000" height="300"/>
     </a>
 <div>
-<br><br>
 <div align="center">
+	<h3>Linguagens</h3>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img 
+			width="45em"
+  			height="45em"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+			alt="javascript"/>
+    	</a>
+    <a href="https://www.java.com">
+        <img 
+			width="45em"
+  			height="45em"
+			src="https://www.svgrepo.com/show/184143/java.svg" 
+			alt="java"/>
+    	</a>
+	<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+        <img
+			width="45em"
+  			height="45em"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
+			alt="html5"/>
+    </a>
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+    	<img 
+			width="45em"
+  			height="45em"
+			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" 
+			alt="css3"/>
+    </a>
+	<br>
+	<h3>Tecnologias</h3>
 	<a href="https://netbeans.apache.org">
 		<img 
 			width="45em"
@@ -19,40 +49,12 @@
 			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
 			alt="vscode" />
     </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-        <img
-			width="45em"
-  			height="45em"
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" 
-			alt="html5"/>
-    </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-    	<img 
-			width="45em"
-  			height="45em"
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" 
-			alt="css3"/>
-    </a>
     <a href="https://sass-lang.com">
         <img 
 			width="45em"
   			height="45em"
 			src="https://www.svgrepo.com/show/349502/sass.svg" 
 			alt="sass"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img 
-			width="45em"
-  			height="45em"
-			src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
-			alt="javascript"/>
-    </a>
-    <a href="https://www.java.com">
-        <img 
-			width="45em"
-  			height="45em"
-			src="https://www.svgrepo.com/show/184143/java.svg" 
-			alt="java"/>
     </a>
     <a href="https://angular.io">
     	<img 
@@ -126,42 +128,71 @@
 	</a>
 <div>
 <br><br>
+<div align="center">
 <a href="https://github.com/dexdevlab">
     <img 
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&theme=aura"/>
+		src="https://github-readme-stats.vercel.app/api?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&bg_color=30,10041f,83708c&title_color=fff&text_color=fff"/>
 </a>
 <a href="https://github.com/dexdevlab">
     <img 
 		height="150em"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=aura"/>
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=dexdevlab&show_icons=true&include_all_commits=true&count_private=true&layout=compact&bg_color=30,83708c,10041f&title_color=fff&text_color=fff"/>
 </a>
-<h4>Trabalhando atualmente em:</h4>
-<a href="https://github.com/dexdevlab/dcl-auth-api">
+</div>
+<div align="center">
+<br>
+	<table>
+		<tr>
+			<th colspan=2>
+			<h3>Trabalhando atualmente em:</h3>
+		</th>
+		</tr>
+		<tr>
+			<td align="center">
+			<a href="https://github.com/DexDevLab/flem-ppe-frontend">
+    <img 
+		height="120em"
+		src="https://github-readme-stats.vercel.app/api/pin/?username=DexDevLab&repo=flem-ppe-frontend&bg_color=30,5f5066,10041f&title_color=000&text_color=fff"/>
+				</a></td>
+			<td align="center">
+			<a href="https://github.com/DexDevLab/flem-ppe-backend">
+    <img 
+		height="120em"
+		src="https://github-readme-stats.vercel.app/api/pin/?username=DexDevLab&repo=flem-ppe-backend&bg_color=30,5f5066,10041f&title_color=000&text_color=fff"/>
+</a></td>
+		</tr>
+		<tr>
+			<td align="center">
+			<a href="https://github.com/DexDevLab/flem-bd-dominio-api">
+    <img 
+		height="120em"
+		src="https://github-readme-stats.vercel.app/api/pin/?username=DexDevLab&repo=flem-bd-dominio-api&bg_color=30,5f5066,10041f&title_color=000&text_color=fff"/>
+				</a></td>
+				<td align="center">
+			<a href="https://github.com/DexDevLab/dcl-auth-api">
     <img 
 		height="100em"
-		src="https://github-readme-stats.vercel.app/api/pin/?username=dexdevlab&repo=dcl-auth-api&theme=aura"/>
-</a>
-<a href="https://github.com/frtechdev/flem-ppe-frontend">
-    <img 
-		height="100em"
-		src="https://github-readme-stats.vercel.app/api/pin/?username=frtechdev&repo=flem-ppe-frontend&theme=aura"/>
-</a>
+		src="https://github-readme-stats.vercel.app/api/pin/?username=DexDevLab&repo=dcl-auth-api&bg_color=30,5f5066,10041f&title_color=000&text_color=fff"/>
+			</a></td>
+		</tr>
+	</table>
+</div>
 <br><br><br><br>
 <h4>About me</h4>
-<div class="div-social">
-    <a href="https://instagram.com/ei_dex/">
+<div align="center">
+    	<a href="https://www.instagram.com/ei_dex/">
     	<img 
-			width="45em"
-  			height="45em"
-			src="https://www.svgrepo.com/show/111199/instagram.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/daniel-augusto-almeida/">
-        <img 
-			width="45em"
-  			height="45em"
-		 	src="https://www.svgrepo.com/show/205292/linkedin.svg" />
-    </a>
+		width="45em"
+  		height="45em"
+		src="https://www.svgrepo.com/show/111199/instagram.svg" />
+	</a>
+	<a href="https://www.linkedin.com/in/daniel-augusto-almeida/">
+    	<img 
+		width="45em"
+  		height="45em"
+		src="https://www.svgrepo.com/show/205292/linkedin.svg" />
+	</a>
 </div>
 <!-- Version:
-v4.2.2.220217 -->
+v4.3.0.220325 -->
