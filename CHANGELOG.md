@@ -6,6 +6,10 @@
 
 <hr>
 
+### v6.0.1.230213
+
+- Alteração no texto do SVG
+
 ### v6.0.0.230213
 
 - Adição de CHANGELOG
