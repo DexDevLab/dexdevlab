@@ -6,6 +6,10 @@
 
 <hr>
 
+### v6.0.3.230303
+
+- Alteração no comportamento do link do SVG
+
 ### v6.0.2.230214
 
 - Alteração no comportamento do link do SVG para o portfólio

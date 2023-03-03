@@ -9,12 +9,19 @@
 In love with IT. Working since 2001 with hardware and software in several areas. Student and Java/JavaScript Fullstack developer with modest knowledge in another languages and technologies.
 
 <br>
+<br>
 
+<div align="center">
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=DexDevLab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DexDevLab&theme=tokyonight&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DexDevLab&theme=tokyonight&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DexDevLab&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+<div align="center">
 
 </div>
 
