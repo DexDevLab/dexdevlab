@@ -6,6 +6,12 @@
 
 <hr>
 
+### v6.1.0-230303
+
+- Criação de package.json
+- Criação de workflow
+- Alteração das dimensões do SVG
+
 ### v6.0.3.230303
 
 - Alteração no comportamento do link do SVG
