@@ -6,6 +6,10 @@
 
 <hr>
 
+### v6.1.1-230303
+
+- Alteração das dimensões do SVG
+
 ### v6.1.0-230303
 
 - Criação de package.json

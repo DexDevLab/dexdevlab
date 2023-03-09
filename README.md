@@ -1,6 +1,6 @@
 <div align="center">
   
- <a href="https://portfolio-vscode-one.vercel.app" target='_blank'><img src="src/banner.svg" width="1012" height="220"/></a>
+ <a href="https://portfolio-vscode-one.vercel.app" target='_blank'><img src="src/banner.svg" width="800" height="400"/></a>
   
 </div>
 
