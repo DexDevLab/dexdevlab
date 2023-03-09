@@ -6,6 +6,10 @@
 
 <hr>
 
+### v6.1.2-230303
+
+- Aumento do espaçamento dos cards de estatísticas
+
 ### v6.1.1-230303
 
 - Alteração das dimensões do SVG
