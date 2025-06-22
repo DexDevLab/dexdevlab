@@ -1,8 +1,8 @@
 {
   "name": "dexdevlab",
-  "version": "v6.1.2-230303",
+  "version": "v7.0.0-250622",
   "license": "MIT",
-  "description": "Github Profile Readme",
+  "description": "Github Readme Profile",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -1,10 +1,8 @@
-<a name="section-changelog">
+<h1 align="center">Notas de Versão</h1>
 
-## Notas de versão
+### v7.0.0-250622
 
-</a>
-
-<hr>
+- Atualização do conteúdo
 
 ### v6.1.2-230303
 
