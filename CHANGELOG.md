@@ -1,5 +1,9 @@
 <h1 align="center">Notas de Versão</h1>
 
+### v7.1.0-250622
+
+- Atualização do conteúdo
+
 ### v7.0.0-250622
 
 - Atualização do conteúdo
